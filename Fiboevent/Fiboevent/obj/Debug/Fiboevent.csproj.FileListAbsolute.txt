@@ -1,0 +1,7 @@
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\bin\Debug\Fiboevent.exe.config
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\bin\Debug\Fiboevent.exe
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\bin\Debug\Fiboevent.pdb
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\obj\Debug\Fiboevent.csprojAssemblyReference.cache
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\obj\Debug\Fiboevent.csproj.CoreCompileInputs.cache
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\obj\Debug\Fiboevent.exe
+C:\Users\Anjani.Burra\source\repos\Fiboevent\Fiboevent\obj\Debug\Fiboevent.pdb
